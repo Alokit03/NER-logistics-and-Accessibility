@@ -1,0 +1,6 @@
+{
+  "name": "NER Logistics & Accessibility Intelligence Platform",
+  "description": "AI-powered GIS platform for real-time road accessibility monitoring, predictive disruption modeling, optimized routing, and essential-goods fleet tracking across the North Eastern Region.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
